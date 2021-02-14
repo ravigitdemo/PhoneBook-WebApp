@@ -3,6 +3,6 @@ package com.nit.controller;
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class ContactEditDeleteController {
+public class ContactEditDeleteController{
 
 }
